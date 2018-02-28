@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Part3
+comment1.params=dna\ startIndex\ stopCodon
+comment1.target=int\ findStopCodon(java.lang.String,\ int,\ java.lang.String)
+comment2.params=dna
+comment2.target=int\ countGenes(java.lang.String)
+comment3.params=
+comment3.target=void\ testCountGenes()
+numComments=4
