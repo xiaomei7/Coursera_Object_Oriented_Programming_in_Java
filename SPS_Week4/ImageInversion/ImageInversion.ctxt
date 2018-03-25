@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ImageInversion
+comment1.params=inImage
+comment1.target=edu.duke.ImageResource\ makeInvert(edu.duke.ImageResource)
+comment2.params=
+comment2.target=void\ selectAndInvert()
+numComments=3

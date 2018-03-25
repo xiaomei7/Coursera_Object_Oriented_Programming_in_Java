@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BatchGrayscale
+comment1.params=inImage
+comment1.target=edu.duke.ImageResource\ makeGray(edu.duke.ImageResource)
+comment2.params=
+comment2.target=void\ selectAndConvert()
+comment3.params=
+comment3.target=void\ testGray()
+numComments=4
