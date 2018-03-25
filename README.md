@@ -8,3 +8,11 @@ Course work for Coursera Online class Object Oriented Programming in Java Specia
 ### **Week 2**
 	Find genes from string or file.
 	StorageResource.
+### **Week 3**
+	CSV Files and Basic Statistics in Java Module
+	1. Use the open-source Apache Commons CSV package in your own Java programs;
+	2. Access data from one or many CSV files using Java;
+	3. Convert strings into numbers;
+	4. Understand how to use “null” in Java programs (when you want to represent “nothing”);
+	5. Devise an algorithm (and implement in Java) to answer questions about CSV data; and
+	Analyze CSV data across multiple CSV files (for example, find maximums, minimums, averages, and other simple statistical results).
