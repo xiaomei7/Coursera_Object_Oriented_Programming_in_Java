@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Simple
+comment1.params=number\ w
+comment1.target=Simple(int,\ java.lang.String)
+comment2.params=num\ s
+comment2.target=java.lang.String\ mystery(int,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

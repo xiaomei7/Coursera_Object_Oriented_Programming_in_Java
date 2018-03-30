@@ -19,3 +19,13 @@ Course work for Coursera Online class Object Oriented Programming in Java Specia
 ### **Week 4**
 	mini-project: search and rank babynames in different year
 	Optional Honors Content: convert images to grayscale and inverted version and save them to the file.
+
+## ALS = Java Programming: Arrays, Lists, and Structured Data
+	2nd course of the specialization
+
+### **Week 1**
+	Combine Strings using concatenation;
+	Build Strings within a Java program using StringBuilder;
+	Use arrays to store and manipulate collections of data;
+	Refactor your programs for improved organization using object-oriented principles; and
+	Practice effective algorithm design.
