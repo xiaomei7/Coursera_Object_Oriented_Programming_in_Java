@@ -29,3 +29,16 @@ Course work for Coursera Online class Object Oriented Programming in Java Specia
 	Use arrays to store and manipulate collections of data;
 	Refactor your programs for improved organization using object-oriented principles; and
 	Practice effective algorithm design.
+
+	Assignments:
+		Implement Caesar Cipher with one and two keys 
+		Implement Caesar Ciphar breakers of one and two keys
+		Implement WordLength to detect the length of words in a file
+		Implement WordPlay to detect vowels in words and play with them
+
+### **Week 2**
+	Program a word frequency counter to analyze any input text file;
+	Select and substitute words from a list into a document template using both ArrayList and HashMap;
+	Create new lists to use in templates;
+	Recognize brittle code; and
+	Improve code with flexible, object-oriented design.

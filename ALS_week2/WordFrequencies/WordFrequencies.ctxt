@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=WordFrequencies
+comment1.params=
+comment1.target=WordFrequencies()
+comment2.params=
+comment2.target=void\ findUnique()
+comment3.params=
+comment3.target=void\ tester()
+comment4.params=
+comment4.target=int\ findIndexOfMax()
+numComments=5
