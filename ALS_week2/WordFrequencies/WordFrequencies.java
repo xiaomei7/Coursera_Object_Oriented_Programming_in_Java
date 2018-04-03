@@ -13,7 +13,7 @@ public class WordFrequencies
         myFreqs = new ArrayList<Integer>();
     }
     
-    public void findUnique(){ 
+    private void findUnique(){ 
         /**
         *Find unique words from a file and record the words and their frequencies inside ArrayLists
         */
@@ -58,7 +58,7 @@ public class WordFrequencies
         System.out.println("max word/freq: " + myWords.get(index) + " " + myFreqs.get(index));
     }
 
-    public int findIndexOfMax(){
+    private int findIndexOfMax(){
         int max = myFreqs.get(0);
         int maxIndex = 0;
         for(int k=0; k < myFreqs.size(); k++){

@@ -76,7 +76,7 @@ public class CharactersInPlay
         // for each main character, print out the main character, 
         // followed by the number of speaking parts that character has
         for (int i = 0; i < characters.size(); i++) {
-            if (appearCount.get(i) > 100) {
+            if (appearCount.get(i) > 50) {
                 System.out.println(characters.get(i) + "\t" + appearCount.get(i));
             }
         }

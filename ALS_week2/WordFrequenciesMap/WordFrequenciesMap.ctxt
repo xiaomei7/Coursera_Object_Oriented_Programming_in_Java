@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WordFrequenciesMap
+comment1.params=filename
+comment1.target=void\ countWords(java.lang.String)
+comment2.params=filename
+comment2.target=void\ countWordsMap(java.lang.String)
+comment3.params=
+comment3.target=void\ tester()
+numComments=4
