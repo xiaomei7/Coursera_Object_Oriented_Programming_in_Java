@@ -42,3 +42,16 @@ Course work for Coursera Online class Object Oriented Programming in Java Specia
 	Create new lists to use in templates;
 	Recognize brittle code; and
 	Improve code with flexible, object-oriented design.
+
+### **Week 3**
+	how web server logs store information about visitors to a website
+	access information like user IP address, date and time of access, and more
+	Read information from a web server log;
+	Count the number of unique visitors to your website; and
+	Count the number of times each visitor uses your website.
+
+	Assignments:
+		Assignment: Reading Web Logs; complete the WebLogProgram to read and print web logs that was described in the lesson
+		Assignment: Unique IPs; continue to build on the LogEntry and LogAnalyzer classes in WebLogProgram with more methods
+
+
