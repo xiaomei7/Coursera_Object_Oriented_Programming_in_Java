@@ -53,5 +53,14 @@ Course work for Coursera Online class Object Oriented Programming in Java Specia
 	Assignments:
 		Assignment: Reading Web Logs; complete the WebLogProgram to read and print web logs that was described in the lesson
 		Assignment: Unique IPs; continue to build on the LogEntry and LogAnalyzer classes in WebLogProgram with more methods
+		Assignment: Website Visits; continue to build on the LogEntry and LogAnalyzer classes in WebLogProgram.
+
+### **Week 4**
+	Breaking the Vigenère Cipher.
+
+	Assignments:
+		Assignment: English Language, Known Key Length
+		Assignment: English Language, Unknown Key Length
+		Assignment: Multiple Languages
 
 
